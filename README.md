@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+  <h1>Welcome to My GitHub! 👨‍💻</h1>
+  <p>I'm [Madhu], a data aficionado turning numbers into narratives.</p>
 <!--
 **madhu-0912/madhu-0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
