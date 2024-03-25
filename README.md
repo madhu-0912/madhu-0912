@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img src="Images/I'm Madhu.png" alt="Banner" style="max-width: 100%;">
+</div>
 
 <!--
 **madhu-0912/madhu-0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
