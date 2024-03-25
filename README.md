@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/I'm Madhu.png" alt="Banner" style="max-width: 100%;">
+  <img src="https://github.com/madhu-0912/madhu-0912/blob/main/Images/I%E2%80%99m%20Madhu.png" alt="Banner" style="max-width: 100%;">
 </div>
 
 <!--
