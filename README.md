@@ -1,4 +1,6 @@
-<img src="https://drive.google.com/file/d/1UOVHhiuk-3pcimGSr3C_U6gm0xwUU9qJ/view">
+<div align="center">
+  <img src="https://drive.google.com/file/d/1UOVHhiuk-3pcimGSr3C_U6gm0xwUU9qJ/view" alt="Banner">
+</div>
 
 <!--
 **madhu-0912/madhu-0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
