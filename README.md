@@ -1,7 +1,13 @@
 <div align="center">
   <img src="https://github.com/madhu-0912/madhu-0912/blob/main/Images/I%E2%80%99m%20Madhu.png" alt="Banner" style="max-width: 100%;">
 </div>
-# Let's get started
+## 💼 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-655ced?style=flat-square&logo=ai&logoColor=white)
 <!--
 **madhu-0912/madhu-0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
