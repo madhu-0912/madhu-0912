@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/madhu-0912/madhu-0912/blob/main/Images/I%E2%80%99m%20Madhu.png" alt="Banner" style="max-width: 100%;">
 </div>
-## Skills
+ 
+ ## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
