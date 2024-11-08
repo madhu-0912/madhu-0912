@@ -15,7 +15,10 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-29A0B1?style=flat-square&logo=xgboost&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-4CAf50?style=flat-square&logo=randomforest&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-<!-- Add more skills as needed -->
+![NetSuite](https://img.shields.io/badge/NetSuite-29A0B1?style=flat-square&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-75AADB?style=flat-square&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 
 <!--
 **madhu-0912/madhu-0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
