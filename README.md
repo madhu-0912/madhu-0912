@@ -25,6 +25,9 @@
 🔭 I’m currently working at Twisted X as a Data Analyst Intern, focusing on managing complex data sets, generating insights, and creating data pipelines and workflows. My role involves collaboration across teams to drive data-driven business decisions.
 
 🌱 I’m currently learning AI and DevOps to expand my skill set and integrate these advanced technologies into my data analytics work.
+<div align="center">
+  <img src="https://media.giphy.com/media/[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata-nerd&psig=AOvVaw1ikk772TIfVN1kgkKnJREe&ust=1731195023386000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDsq53yzYkDFQAAAAAdAAAAABAE)]/giphy.gif" alt="Fun Gif" width="300" height="auto">
+</div>
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/madhu-sudhan-reddy-puppala/) | Email: msrpuppala@gmail.com
 
