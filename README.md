@@ -26,8 +26,9 @@
 
 🌱 I’m currently learning AI and DevOps to expand my skill set and integrate these advanced technologies into my data analytics work.
 <div align="center">
-  <img src="https://media.giphy.com/media/[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata-nerd&psig=AOvVaw1ikk772TIfVN1kgkKnJREe&ust=1731195023386000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDsq53yzYkDFQAAAAAdAAAAABAE)]/giphy.gif" alt="Fun Gif" width="300" height="auto">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBreW9pYzIwMnc5eGg1djdxMXlrMDV1MGJyN28zdno3cWUzMG5ibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.webp" alt="Fun Gif" width="200" height="144">
 </div>
+
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/madhu-sudhan-reddy-puppala/) | Email: msrpuppala@gmail.com
 
