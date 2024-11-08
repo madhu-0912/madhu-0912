@@ -37,7 +37,7 @@
        | " <a href="mailto:msrpuppala@gmail.com"> "
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" width="30" alt="Gmail">
 
-⚡ Fun fact: I'm a data enthusiast who loves finding patterns in both datasets and nature! When I'm not working with data, you’ll find me exploring hiking trails and capturing landscapes.
+⚡ Fun fact: I'm a data enthusiast who loves finding patterns in both datasets and nature! When I'm not working with data, you’ll find me exploring hiking trails and capturing landscapes. wait! never mind. Check in planet fitness once.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
