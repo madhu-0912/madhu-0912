@@ -16,17 +16,20 @@
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-4CAf50?style=flat-square&logo=randomforest&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![NetSuite](https://img.shields.io/badge/NetSuite-29A0B1?style=flat-square&logo=oracle&logoColor=white)
+![SAP ERP](https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-75AADB?style=flat-square&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 
+## About Me
+🔭 I’m currently working at Twisted X as a Data Analyst Intern, focusing on managing complex data sets, generating insights, and creating data pipelines and workflows. My role involves collaboration across teams to drive data-driven business decisions.
+
+🌱 I’m currently learning AI and DevOps to expand my skill set and integrate these advanced technologies into my data analytics work.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/madhu-sudhan-reddy-puppala/) | Email: msrpuppala@gmail.com
+
+⚡ Fun fact: I'm a data enthusiast who loves finding patterns in both datasets and nature! When I'm not working with data, you’ll find me exploring hiking trails and capturing landscapes.
 <!--
-**madhu-0912/madhu-0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
